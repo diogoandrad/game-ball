@@ -1,2 +1,2 @@
 # game-ball
-Jogo criado em C#.
+Jogo desenvolvido em C#.
